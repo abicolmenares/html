@@ -1,0 +1,21 @@
+body{
+    
+    background-color: blanchedalmond;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+h1{
+    color: rgba(226, 220, 255, 0.849);
+}
+#logo{
+    width: 20px;
+    height: 20px;
+}
+.titulo{
+    color:rgba(140, 102, 189, 0.877);
+}
+.titulo{
+    color:rgba(151, 73, 214, 0.897);
+}
